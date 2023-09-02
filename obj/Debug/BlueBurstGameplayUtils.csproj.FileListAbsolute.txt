@@ -1,0 +1,15 @@
+C:\Users\Daniel\source\repos\BlueBurstGameplayUtils\obj\Debug\BlueBurstGameplayUtils.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\BlueBurstGameplayUtils\obj\Debug\BlueBurstGameplayUtils.csproj.SuggestedBindingRedirects.cache
+C:\Users\Daniel\source\repos\BlueBurstGameplayUtils\obj\Debug\BlueBurstGameplayUtils.Form1.resources
+C:\Users\Daniel\source\repos\BlueBurstGameplayUtils\obj\Debug\BlueBurstGameplayUtils.Properties.Resources.resources
+C:\Users\Daniel\source\repos\BlueBurstGameplayUtils\obj\Debug\BlueBurstGameplayUtils.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\BlueBurstGameplayUtils\obj\Debug\BlueBurstGameplayUtils.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\BlueBurstGameplayUtils\bin\Debug\BlueBurstGameplayUtils.exe.config
+C:\Users\Daniel\source\repos\BlueBurstGameplayUtils\bin\Debug\BlueBurstGameplayUtils.exe
+C:\Users\Daniel\source\repos\BlueBurstGameplayUtils\bin\Debug\BlueBurstGameplayUtils.pdb
+C:\Users\Daniel\source\repos\BlueBurstGameplayUtils\obj\Debug\BlueBurstGameplayUtils.exe
+C:\Users\Daniel\source\repos\BlueBurstGameplayUtils\obj\Debug\BlueBurstGameplayUtils.pdb
+C:\Users\Daniel\source\repos\BlueBurstGameplayUtils\bin\Debug\OpenTK.dll
+C:\Users\Daniel\source\repos\BlueBurstGameplayUtils\bin\Debug\OpenTK.pdb
+C:\Users\Daniel\source\repos\BlueBurstGameplayUtils\bin\Debug\OpenTK.xml
+C:\Users\Daniel\source\repos\BlueBurstGameplayUtils\obj\Debug\BlueBurstGameplayUtils.csproj.CopyComplete
